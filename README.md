@@ -1,3 +1,3 @@
 # Git Full Course
 
-A fast paced course
+A fast-paced course
